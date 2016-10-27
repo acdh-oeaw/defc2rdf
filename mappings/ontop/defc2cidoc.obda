@@ -19,10 +19,6 @@ mappingId	MAPID-3a2d83fbec9b48faa0fb82a83a9d2cb0
 target		:/site/{id} a cidoc-crm:E7_Activity . 
 source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
 
-mappingId	MAPID-368a7aa5d5c54ed494353636fd439509
-target		:/site/{id} cidoc-crm:P1_is_identified_by :/site/{name} . 
-source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
-
 mappingId	MAPID-7997fed190854d7dbbd33ed4b1491791
 target		:site/{name} a cidoc-crm:E41_Appellation . 
 source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
