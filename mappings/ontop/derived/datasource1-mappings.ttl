@@ -1,0 +1,347 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+
+_:node1b02qc89jx3 rr:logicalTable _:node1b02qc89jx1 .
+
+_:node1b02qc89jx1 a rr:R2RMLView .
+
+_:node1b02qc89jx2 rr:termType rr:IRI .
+
+_:node1b02qc89jx3 a rr:TriplesMap .
+
+_:node1b02qc89jx2 a rr:SubjectMap .
+
+_:node1b02qc89jx1 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" .
+
+_:node1b02qc89jx3 rr:subjectMap _:node1b02qc89jx2 .
+
+_:node1b02qc89jx2 a rr:TermMap ;
+	rr:class <http://www.cidoc-crm.org/cidoc-crm/E7_Activity> ;
+	rr:template "http://vocab.acdh/defc2cidoc#/site/{id}" .
+
+_:node1b02qc89jx5 rr:class <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+
+_:node1b02qc89jx4 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" .
+
+_:node1b02qc89jx5 a rr:SubjectMap .
+
+_:node1b02qc89jx6 a rr:TriplesMap ;
+	rr:logicalTable _:node1b02qc89jx4 .
+
+_:node1b02qc89jx5 a rr:TermMap ;
+	rr:template "http://vocab.acdh/defc2cidoc#site/{name}" .
+
+_:node1b02qc89jx4 a rr:R2RMLView .
+
+_:node1b02qc89jx6 rr:subjectMap _:node1b02qc89jx5 .
+
+_:node1b02qc89jx5 rr:termType rr:IRI .
+
+_:node1b02qc89jx11 rr:template "http://vocab.acdh/defc2cidoc#province/{province_id}" .
+
+_:node1b02qc89jx7 a rr:R2RMLView .
+
+_:node1b02qc89jx8 a rr:TermMap .
+
+_:node1b02qc89jx7 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" .
+
+_:node1b02qc89jx8 a rr:SubjectMap ;
+	rr:termType rr:IRI .
+
+_:node1b02qc89jx11 a rr:TermMap .
+
+_:node1b02qc89jx12 rr:objectMap _:node1b02qc89jx11 ;
+	rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> .
+
+_:node1b02qc89jx9 rr:subjectMap _:node1b02qc89jx8 ;
+	a rr:TriplesMap .
+
+_:node1b02qc89jx8 rr:template "http://vocab.acdh/defc2cidoc#site/{id}" .
+
+_:node1b02qc89jx9 rr:logicalTable _:node1b02qc89jx7 .
+
+_:node1b02qc89jx12 a rr:PredicateObjectMap .
+
+_:node1b02qc89jx11 a rr:ObjectMap .
+
+_:node1b02qc89jx9 rr:predicateObjectMap _:node1b02qc89jx12 .
+
+_:node1b02qc89jx11 rr:termType rr:IRI .
+
+_:node1b02qc89jx15 a rr:TriplesMap ;
+	rr:logicalTable _:node1b02qc89jx13 .
+
+_:node1b02qc89jx13 a rr:R2RMLView .
+
+_:node1b02qc89jx14 a rr:SubjectMap .
+
+_:node1b02qc89jx15 rr:subjectMap _:node1b02qc89jx14 .
+
+_:node1b02qc89jx14 rr:template "http://vocab.acdh/defc2cidoc#province/{province_id}" ;
+	rr:class <http://www.cidoc-crm.org/cidoc-crm/E53_Place> ;
+	a rr:TermMap ;
+	rr:termType rr:IRI .
+
+_:node1b02qc89jx13 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" .
+
+_:node1b02qc89jx20 a rr:ObjectMap ;
+	rr:termType rr:IRI .
+
+_:node1b02qc89jx21 rr:objectMap _:node1b02qc89jx20 .
+
+_:node1b02qc89jx17 a rr:TermMap .
+
+_:node1b02qc89jx16 a rr:R2RMLView .
+
+_:node1b02qc89jx18 a rr:TriplesMap ;
+	rr:predicateObjectMap _:node1b02qc89jx21 ;
+	rr:logicalTable _:node1b02qc89jx16 .
+
+_:node1b02qc89jx16 rr:sqlQuery "select \"id\", \"name\", \"original_name\", \"authorityfile_id\", \"region_id\", \"lat\", \"lng\", \"description\" from \"defcdb_dc_province\"" .
+
+_:node1b02qc89jx18 rr:subjectMap _:node1b02qc89jx17 .
+
+_:node1b02qc89jx20 rr:template "http://vocab.acdh/defc2cidoc#region/{region_id}" ;
+	a rr:TermMap .
+
+_:node1b02qc89jx17 a rr:SubjectMap ;
+	rr:template "http://vocab.acdh/defc2cidoc#province/{id}" ;
+	rr:termType rr:IRI .
+
+_:node1b02qc89jx21 rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P89_falls_within> ;
+	a rr:PredicateObjectMap .
+
+_:node1b02qc89jx24 rr:logicalTable _:node1b02qc89jx22 .
+
+_:node1b02qc89jx22 rr:sqlQuery "select \"id\", \"name\", \"original_name\", \"authorityfile_id\", \"region_id\", \"lat\", \"lng\", \"description\" from \"defcdb_dc_province\"" ;
+	a rr:R2RMLView .
+
+_:node1b02qc89jx23 rr:class <http://www.cidoc-crm.org/cidoc-crm/E47_Spatial_Coordinates> ;
+	a rr:TermMap , rr:SubjectMap .
+
+_:node1b02qc89jx24 a rr:TriplesMap ;
+	rr:subjectMap _:node1b02qc89jx23 .
+
+_:node1b02qc89jx23 rr:template "http://vocab.acdh/defc2cidoc#province/{lat}" ;
+	rr:termType rr:IRI .
+
+_:node1b02qc89jx27 rr:subjectMap _:node1b02qc89jx26 .
+
+_:node1b02qc89jx25 a rr:R2RMLView ;
+	rr:sqlQuery "select \"id\", \"name\", \"original_name\", \"authorityfile_id\", \"region_id\", \"lat\", \"lng\", \"description\" from \"defcdb_dc_province\"" .
+
+_:node1b02qc89jx27 rr:logicalTable _:node1b02qc89jx25 .
+
+_:node1b02qc89jx26 rr:template "http://vocab.acdh/defc2cidoc#province/{lng}" ;
+	a rr:TermMap ;
+	rr:class <http://www.cidoc-crm.org/cidoc-crm/E47_Spatial_Coordinates> .
+
+_:node1b02qc89jx27 a rr:TriplesMap .
+
+_:node1b02qc89jx26 rr:termType rr:IRI ;
+	a rr:SubjectMap .
+
+_:node1b02qc89jx32 a rr:ObjectMap .
+
+_:node1b02qc89jx33 rr:objectMap _:node1b02qc89jx32 .
+
+_:node1b02qc89jx30 rr:logicalTable _:node1b02qc89jx28 .
+
+_:node1b02qc89jx29 rr:template "http://vocab.acdh/defc2cidoc#province/{id}" .
+
+_:node1b02qc89jx28 rr:sqlQuery "select \"id\", \"name\", \"original_name\", \"authorityfile_id\", \"region_id\", \"lat\", \"lng\", \"description\" from \"defcdb_dc_province\"" .
+
+_:node1b02qc89jx32 rr:template "http://vocab.acdh/defc2cidoc#region/{region_id}" .
+
+_:node1b02qc89jx30 a rr:TriplesMap .
+
+_:node1b02qc89jx32 a rr:TermMap .
+
+_:node1b02qc89jx30 rr:subjectMap _:node1b02qc89jx29 ;
+	rr:predicateObjectMap _:node1b02qc89jx33 .
+
+_:node1b02qc89jx29 rr:termType rr:IRI ;
+	a rr:SubjectMap .
+
+_:node1b02qc89jx28 a rr:R2RMLView .
+
+_:node1b02qc89jx33 rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P89_falls_within> .
+
+_:node1b02qc89jx29 a rr:TermMap .
+
+_:node1b02qc89jx33 a rr:PredicateObjectMap .
+
+_:node1b02qc89jx32 rr:termType rr:IRI .
+
+_:node1b02qc89jx34 a rr:R2RMLView .
+
+_:node1b02qc89jx36 rr:logicalTable _:node1b02qc89jx34 .
+
+_:node1b02qc89jx35 rr:termType rr:IRI .
+
+_:node1b02qc89jx34 rr:sqlQuery "select \"id\", \"name\", \"original_name\", \"authorityfile_id\", \"country_id\", \"lat\", \"lng\", \"description\" from \"defcdb_dc_region\"" .
+
+_:node1b02qc89jx38 rr:termType rr:IRI .
+
+_:node1b02qc89jx39 a rr:PredicateObjectMap .
+
+_:node1b02qc89jx38 a rr:ObjectMap .
+
+_:node1b02qc89jx36 rr:predicateObjectMap _:node1b02qc89jx39 .
+
+_:node1b02qc89jx38 rr:template "http://vocab.acdh/defc2cidoc#country/{country_id}" .
+
+_:node1b02qc89jx39 rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P89_falls_within> .
+
+_:node1b02qc89jx35 rr:template "http://vocab.acdh/defc2cidoc#region/{id}" .
+
+_:node1b02qc89jx36 a rr:TriplesMap .
+
+_:node1b02qc89jx35 a rr:SubjectMap .
+
+_:node1b02qc89jx39 rr:objectMap _:node1b02qc89jx38 .
+
+_:node1b02qc89jx35 a rr:TermMap .
+
+_:node1b02qc89jx36 rr:subjectMap _:node1b02qc89jx35 .
+
+_:node1b02qc89jx38 a rr:TermMap .
+
+_:node1b02qc89jx42 rr:subjectMap _:node1b02qc89jx41 .
+
+_:node1b02qc89jx45 rr:objectMap _:node1b02qc89jx44 .
+
+_:node1b02qc89jx44 rr:termType rr:IRI ;
+	a rr:ObjectMap ;
+	rr:template "http://vocab.acdh/defc2cidoc#site/{name}" .
+
+_:node1b02qc89jx40 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" ;
+	a rr:R2RMLView .
+
+_:node1b02qc89jx41 rr:template "http://vocab.acdh/defc2cidoc#site/{id}" ;
+	a rr:TermMap .
+
+_:node1b02qc89jx42 a rr:TriplesMap .
+
+_:node1b02qc89jx41 a rr:SubjectMap .
+
+_:node1b02qc89jx42 rr:predicateObjectMap _:node1b02qc89jx45 .
+
+_:node1b02qc89jx44 a rr:TermMap .
+
+_:node1b02qc89jx42 rr:logicalTable _:node1b02qc89jx40 .
+
+_:node1b02qc89jx41 rr:termType rr:IRI .
+
+_:node1b02qc89jx45 a rr:PredicateObjectMap ;
+	rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> .
+
+_:node1b02qc89jx47 rr:termType rr:IRI ;
+	rr:template "http://vocab.acdh/defc2cidoc#site/{name}" .
+
+_:node1b02qc89jx46 a rr:R2RMLView .
+
+_:node1b02qc89jx48 rr:logicalTable _:node1b02qc89jx46 .
+
+_:node1b02qc89jx50 rr:template "{name}" ;
+	rr:termType rr:Literal ;
+	a rr:TermMap ;
+	rr:datatype <http://www.w3.org/2001/XMLSchema#string> .
+
+_:node1b02qc89jx48 rr:predicateObjectMap _:node1b02qc89jx51 .
+
+_:node1b02qc89jx51 a rr:PredicateObjectMap .
+
+_:node1b02qc89jx48 a rr:TriplesMap ;
+	rr:subjectMap _:node1b02qc89jx47 .
+
+_:node1b02qc89jx47 a rr:SubjectMap .
+
+_:node1b02qc89jx51 rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> .
+
+_:node1b02qc89jx47 a rr:TermMap .
+
+_:node1b02qc89jx51 rr:objectMap _:node1b02qc89jx50 .
+
+_:node1b02qc89jx50 a rr:ObjectMap .
+
+_:node1b02qc89jx46 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"name\", \"description\", \"topography_id\", \"coordinate_source_id\", \"number_of_activity_periods\", \"comment\", \"geographical_coordinate_reference_system_id\", \"province_id\", \"exact_location\", \"latitude\", \"longitude\", \"authorityfile_id\", \"elevation\", \"public\" from \"defcdb_site\"" .
+
+_:node1b02qc89jx53 rr:template "http://vocab.acdh/defc2cidoc#area/{id}" .
+
+_:node1b02qc89jx56 rr:termType rr:IRI .
+
+_:node1b02qc89jx57 rr:objectMap _:node1b02qc89jx56 .
+
+_:node1b02qc89jx56 a rr:ObjectMap ;
+	rr:template "http://vocab.acdh/defc2cidoc#site/{site_id}" .
+
+_:node1b02qc89jx52 a rr:R2RMLView ;
+	rr:sqlQuery "select \"id\", \"created\", \"modified\", \"area_nr\", \"period_comment\", \"settlement_human_remains\", \"cemetery_or_grave\", \"grave_number_of_graves\", \"grave_estimated_number_of_individuals\", \"grave_number_of_female_sex\", \"grave_number_of_male_sex\", \"grave_number_of_not_specified_sex\", \"description\", \"comment\", \"area_type_id\", \"cave_rockshelters_type_id\", \"site_id\", \"cave_rockshelters_human_remains\", \"earliest_date_14C_age\", \"earliest_date_14C_age_calibrated\", \"earliest_date_calibration\", \"earliest_date_date_of_calibration\", \"earliest_date_delta13\", \"earliest_date_lab_number\", \"earliest_date_standard_deviation\", \"latest_date_14C_age\", \"latest_date_14C_age_calibrated\", \"latest_date_calibration\", \"latest_date_date_of_calibration\", \"latest_date_delta13\", \"latest_date_lab_number\", \"latest_date_standard_deviation\", \"radiocarbon_dated\", \"quarry_exploitation_type_id\", \"settlement_type_id\", \"public\" from \"defcdb_area\"" .
+
+_:node1b02qc89jx54 a rr:TriplesMap ;
+	rr:predicateObjectMap _:node1b02qc89jx57 .
+
+_:node1b02qc89jx53 a rr:TermMap .
+
+_:node1b02qc89jx56 a rr:TermMap .
+
+_:node1b02qc89jx53 a rr:SubjectMap .
+
+_:node1b02qc89jx54 rr:logicalTable _:node1b02qc89jx52 .
+
+_:node1b02qc89jx57 a rr:PredicateObjectMap ;
+	rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P89_falls_within> .
+
+_:node1b02qc89jx54 rr:subjectMap _:node1b02qc89jx53 .
+
+_:node1b02qc89jx53 rr:termType rr:IRI .
+
+_:node1b02qc89jx59 rr:termType rr:IRI .
+
+_:node1b02qc89jx58 a rr:R2RMLView .
+
+_:node1b02qc89jx62 rr:termType rr:Literal .
+
+_:node1b02qc89jx63 rr:objectMap _:node1b02qc89jx62 .
+
+_:node1b02qc89jx58 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"area_nr\", \"period_comment\", \"settlement_human_remains\", \"cemetery_or_grave\", \"grave_number_of_graves\", \"grave_estimated_number_of_individuals\", \"grave_number_of_female_sex\", \"grave_number_of_male_sex\", \"grave_number_of_not_specified_sex\", \"description\", \"comment\", \"area_type_id\", \"cave_rockshelters_type_id\", \"site_id\", \"cave_rockshelters_human_remains\", \"earliest_date_14C_age\", \"earliest_date_14C_age_calibrated\", \"earliest_date_calibration\", \"earliest_date_date_of_calibration\", \"earliest_date_delta13\", \"earliest_date_lab_number\", \"earliest_date_standard_deviation\", \"latest_date_14C_age\", \"latest_date_14C_age_calibrated\", \"latest_date_calibration\", \"latest_date_date_of_calibration\", \"latest_date_delta13\", \"latest_date_lab_number\", \"latest_date_standard_deviation\", \"radiocarbon_dated\", \"quarry_exploitation_type_id\", \"settlement_type_id\", \"public\" from \"defcdb_area\"" .
+
+_:node1b02qc89jx63 a rr:PredicateObjectMap .
+
+_:node1b02qc89jx62 a rr:TermMap .
+
+_:node1b02qc89jx63 rr:predicate <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> .
+
+_:node1b02qc89jx60 a rr:TriplesMap .
+
+_:node1b02qc89jx59 a rr:TermMap ;
+	rr:template "http://vocab.acdh/defc2cidoc#area/{id}" .
+
+_:node1b02qc89jx60 rr:predicateObjectMap _:node1b02qc89jx63 .
+
+_:node1b02qc89jx59 a rr:SubjectMap .
+
+_:node1b02qc89jx62 a rr:ObjectMap .
+
+_:node1b02qc89jx60 rr:subjectMap _:node1b02qc89jx59 .
+
+_:node1b02qc89jx62 rr:template "{description}" .
+
+_:node1b02qc89jx60 rr:logicalTable _:node1b02qc89jx58 .
+
+_:node1b02qc89jx65 rr:template "http://vocab.acdh/defc2cidoc#area/{id}" ;
+	a rr:TermMap .
+
+_:node1b02qc89jx64 a rr:R2RMLView .
+
+_:node1b02qc89jx66 rr:subjectMap _:node1b02qc89jx65 ;
+	a rr:TriplesMap .
+
+_:node1b02qc89jx65 a rr:SubjectMap .
+
+_:node1b02qc89jx64 rr:sqlQuery "select \"id\", \"created\", \"modified\", \"area_nr\", \"period_comment\", \"settlement_human_remains\", \"cemetery_or_grave\", \"grave_number_of_graves\", \"grave_estimated_number_of_individuals\", \"grave_number_of_female_sex\", \"grave_number_of_male_sex\", \"grave_number_of_not_specified_sex\", \"description\", \"comment\", \"area_type_id\", \"cave_rockshelters_type_id\", \"site_id\", \"cave_rockshelters_human_remains\", \"earliest_date_14C_age\", \"earliest_date_14C_age_calibrated\", \"earliest_date_calibration\", \"earliest_date_date_of_calibration\", \"earliest_date_delta13\", \"earliest_date_lab_number\", \"earliest_date_standard_deviation\", \"latest_date_14C_age\", \"latest_date_14C_age_calibrated\", \"latest_date_calibration\", \"latest_date_date_of_calibration\", \"latest_date_delta13\", \"latest_date_lab_number\", \"latest_date_standard_deviation\", \"radiocarbon_dated\", \"quarry_exploitation_type_id\", \"settlement_type_id\", \"public\" from \"defcdb_area\"" .
+
+_:node1b02qc89jx66 rr:logicalTable _:node1b02qc89jx64 .
+
+_:node1b02qc89jx65 rr:termType rr:IRI ;
+	rr:class <http://www.cidoc-crm.org/cidoc-crm/E27_Site> .
