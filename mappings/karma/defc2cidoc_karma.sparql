@@ -9,8 +9,8 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?site  ?sitename_uri ?sitename
 WHERE {
 	?site a cidoc-crm:E7_Activity;
-                cidoc-crm:P1_is_identified_by ?sitename_uri;
-        ?site_name_uri cidoc-crm:P90_has_value ?sitename.
+                cidoc-crm:P1_is_identified_by ?sitename_uri.
+        ?sitename_uri cidoc-crm:P90_has_value ?sitename.
 	
 	
 }
