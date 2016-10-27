@@ -1,0 +1,58 @@
+[PrefixDeclaration]
+:		http://vocab.acdh/defc2cidoc#
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+xml:		http://www.w3.org/XML/1998/namespace
+xsd:		http://www.w3.org/2001/XMLSchema#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+cidoc-crm:	http://www.cidoc-crm.org/cidoc-crm/
+
+[SourceDeclaration]
+sourceUri	datasource1
+connectionUrl	jdbc:mysql://localhost:3306/defc?sessionVariables=sql_mode='ANSI'
+username	root
+password	
+driverClass	com.mysql.jdbc.Driver
+
+[MappingDeclaration] @collection [[
+mappingId	MAPID-3a2d83fbec9b48faa0fb82a83a9d2cb0
+target		:/site/{id} a cidoc-crm:E7_Activity . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-368a7aa5d5c54ed494353636fd439509
+target		:/site/{id} cidoc-crm:P1_is_identified_by :/site/{name} . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-7997fed190854d7dbbd33ed4b1491791
+target		:site/{name} a cidoc-crm:E41_Appellation . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-2688100899ef4b9bae86be51ae7d3f25
+target		:site/{id} cidoc-crm:P7_took_place_at :province/{province_id} . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-cdba7856d2ef4a9fa6b34b289ccbacff
+target		:province/{province_id} a cidoc-crm:E53_Place . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-cca224064e8949a7bae15a2683836b30
+target		:province/{id} cidoc-crm:P89_falls_within :region/{region_id} . 
+source		select "id", "name", "original_name", "authorityfile_id", "region_id", "lat", "lng", "description" from "defcdb_dc_province"
+
+mappingId	MAPID-00af05ef22bb4e36887225a5bd020213
+target		:province/{lat} a cidoc-crm:E47_Spatial_Coordinates . 
+source		select "id", "name", "original_name", "authorityfile_id", "region_id", "lat", "lng", "description" from "defcdb_dc_province"
+
+mappingId	MAPID-b77eec6abd0b4e54a8c1c5f455b494a5
+target		:province/{lng} a cidoc-crm:E47_Spatial_Coordinates . 
+source		select "id", "name", "original_name", "authorityfile_id", "region_id", "lat", "lng", "description" from "defcdb_dc_province"
+
+mappingId	MAPID-18e8ce768bd148f09bdcf6ea61263127
+target		:province/{id} cidoc-crm:P89_falls_within :region/{region_id} . 
+source		select "id", "name", "original_name", "authorityfile_id", "region_id", "lat", "lng", "description" from "defcdb_dc_province"
+
+mappingId	MAPID-d47586083e5a4414bced2f94f9293bee
+target		:region/{id} cidoc-crm:P89_falls_within :country/{country_id} . 
+source		select "id", "name", "original_name", "authorityfile_id", "country_id", "lat", "lng", "description" from "defcdb_dc_region"
+]]
+
