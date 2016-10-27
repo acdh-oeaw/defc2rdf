@@ -50,5 +50,13 @@ source		select "id", "name", "original_name", "authorityfile_id", "region_id", "
 mappingId	MAPID-d47586083e5a4414bced2f94f9293bee
 target		:region/{id} cidoc-crm:P89_falls_within :country/{country_id} . 
 source		select "id", "name", "original_name", "authorityfile_id", "country_id", "lat", "lng", "description" from "defcdb_dc_region"
+
+mappingId	MAPID-78cbdd2583ff4a689106dbfd8886a855
+target		:site/{id} cidoc-crm:P1_is_identified_by :site-name/{name} . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-3985bebbd4014320b73f151ea5088501
+target		:site-name/{name} cidoc-crm:P90_has_value {name}^^xsd:string . 
+source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
 ]]
 
