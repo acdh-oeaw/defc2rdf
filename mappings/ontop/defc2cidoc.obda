@@ -52,11 +52,23 @@ target		:region/{id} cidoc-crm:P89_falls_within :country/{country_id} .
 source		select "id", "name", "original_name", "authorityfile_id", "country_id", "lat", "lng", "description" from "defcdb_dc_region"
 
 mappingId	MAPID-78cbdd2583ff4a689106dbfd8886a855
-target		:site/{id} cidoc-crm:P1_is_identified_by :site-name/{name} . 
+target		:site/{id} cidoc-crm:P1_is_identified_by :site/{name} . 
 source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
 
 mappingId	MAPID-3985bebbd4014320b73f151ea5088501
-target		:site-name/{name} cidoc-crm:P90_has_value {name}^^xsd:string . 
+target		:site/{name} cidoc-crm:P90_has_value {name}^^xsd:string . 
 source		select "id", "created", "modified", "name", "description", "topography_id", "coordinate_source_id", "number_of_activity_periods", "comment", "geographical_coordinate_reference_system_id", "province_id", "exact_location", "latitude", "longitude", "authorityfile_id", "elevation", "public" from "defcdb_site"
+
+mappingId	MAPID-cfeb8f4235b04869b709dd436a506c64
+target		:area/{id} cidoc-crm:P89_falls_within :site/{site_id} . 
+source		select "id", "created", "modified", "area_nr", "period_comment", "settlement_human_remains", "cemetery_or_grave", "grave_number_of_graves", "grave_estimated_number_of_individuals", "grave_number_of_female_sex", "grave_number_of_male_sex", "grave_number_of_not_specified_sex", "description", "comment", "area_type_id", "cave_rockshelters_type_id", "site_id", "cave_rockshelters_human_remains", "earliest_date_14C_age", "earliest_date_14C_age_calibrated", "earliest_date_calibration", "earliest_date_date_of_calibration", "earliest_date_delta13", "earliest_date_lab_number", "earliest_date_standard_deviation", "latest_date_14C_age", "latest_date_14C_age_calibrated", "latest_date_calibration", "latest_date_date_of_calibration", "latest_date_delta13", "latest_date_lab_number", "latest_date_standard_deviation", "radiocarbon_dated", "quarry_exploitation_type_id", "settlement_type_id", "public" from "defcdb_area"
+
+mappingId	MAPID-a0b96b192e1e498d84d894e7b5b16eae
+target		:area/{id} cidoc-crm:P90_has_value {description}^^rdfs:Literal . 
+source		select "id", "created", "modified", "area_nr", "period_comment", "settlement_human_remains", "cemetery_or_grave", "grave_number_of_graves", "grave_estimated_number_of_individuals", "grave_number_of_female_sex", "grave_number_of_male_sex", "grave_number_of_not_specified_sex", "description", "comment", "area_type_id", "cave_rockshelters_type_id", "site_id", "cave_rockshelters_human_remains", "earliest_date_14C_age", "earliest_date_14C_age_calibrated", "earliest_date_calibration", "earliest_date_date_of_calibration", "earliest_date_delta13", "earliest_date_lab_number", "earliest_date_standard_deviation", "latest_date_14C_age", "latest_date_14C_age_calibrated", "latest_date_calibration", "latest_date_date_of_calibration", "latest_date_delta13", "latest_date_lab_number", "latest_date_standard_deviation", "radiocarbon_dated", "quarry_exploitation_type_id", "settlement_type_id", "public" from "defcdb_area"
+
+mappingId	MAPID-0597abbe941040e2967b96706df538b3
+target		:area/{id} a cidoc-crm:E27_Site . 
+source		select "id", "created", "modified", "area_nr", "period_comment", "settlement_human_remains", "cemetery_or_grave", "grave_number_of_graves", "grave_estimated_number_of_individuals", "grave_number_of_female_sex", "grave_number_of_male_sex", "grave_number_of_not_specified_sex", "description", "comment", "area_type_id", "cave_rockshelters_type_id", "site_id", "cave_rockshelters_human_remains", "earliest_date_14C_age", "earliest_date_14C_age_calibrated", "earliest_date_calibration", "earliest_date_date_of_calibration", "earliest_date_delta13", "earliest_date_lab_number", "earliest_date_standard_deviation", "latest_date_14C_age", "latest_date_14C_age_calibrated", "latest_date_calibration", "latest_date_date_of_calibration", "latest_date_delta13", "latest_date_lab_number", "latest_date_standard_deviation", "radiocarbon_dated", "quarry_exploitation_type_id", "settlement_type_id", "public" from "defcdb_area"
 ]]
 
