@@ -1,0 +1,2691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/3">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/GusirHöyük"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/30"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/30">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Siirt"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/4">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/SumakiHöyük"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/24">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Batman"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/5">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KastelliChanion"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/120">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/6">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/AgiosIoannis-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/7">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Lera-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/8">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Koumarospilio"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/9">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KalathasAkrotiriou"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/10">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nerokourou"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/11">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Spiliotissa-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/12">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/ArkaliesSkourachladas-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/13">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Samonas"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/14">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Stylos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/15">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Athens"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/99">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Athens"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/88">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Magnesia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/16">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Sesklo"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/17">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/HallanCemi"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/18">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Demirköy"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/19">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Pyrgos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/20">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Dimini"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/21">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Pevkakia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/22">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Ancient-Volos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/23">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Petromagula"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/24">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Pyrasos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/25">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/PhthioticThebes"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/26">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Halos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/27">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/AgiosPetros"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/89">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/NorthernSporades"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/28">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Platyvola-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/29">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Kambia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/30">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Riza"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/31">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/AgiaKyriaki"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/32">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/PalaiochoraNerovolaki"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/33">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Chrisoskalatissa"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/34">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/SfinariKorakias"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/35">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Falasarna"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/36">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Trachilos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/37">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Skyros"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/38">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Makrychori"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/86">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Karditsa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/39">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Prodromos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/40">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Artesianon"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/41">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Theopetra-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/42">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Gavdos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/118">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/43">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Gerani-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/44">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Melidoni-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/45">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/SouphliMagula"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/87">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Larissa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/46">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/OtzakiMagula"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/47">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Sendoni-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/48">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/AgiaSofia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/49">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Argissa"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/50">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KörtikTepe"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/25">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Diyarbakir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/51">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KaragyösMagula"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/52">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Krannon/DoumaMagula"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/53">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Krannon/Girlenia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/54">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Achilleion"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/55">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Pharsala"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/56">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Rizoupoli"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/101">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/57">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/NeaMakri"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/58">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Marathon"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/59">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Gerontospilio"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/60">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Axos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/61">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/IdaeanCave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/62">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Atsipades"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/63">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Rhamnous"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/64">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/AgiaMarina-Varkiza"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/65">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Vouliagmeni/Kavouri"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/66">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KiaphaThiti"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/67">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Kitsos-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/68">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/KoxareKoule"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/69">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Marmaras"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/70">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nithavri"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/71">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Aigilia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/72">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Thorikos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/73">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Ägina"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/104"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/104">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/74">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Methana"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/104"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/75">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Korinth"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/95"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/95">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Corinthia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/76">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/NemeaValley"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/95"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/77">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/SalatCamiYani"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/78">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Debla"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/79">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Arkouda"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/80">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Perivolia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/120"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/81">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Ellenes-Cave"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/118"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/82">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nemea"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/95"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/83">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nafplio/Akronauplia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/94">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Argolid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/84">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nafplio/Koutsouria"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/85">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Nafplio/LophosKarapavlo"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/86">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Aria"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/87">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/CaferHöyük"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/42">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Malatya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/88">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Asine"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/89">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Lerna"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/90">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/ChonikaKokkinia"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/91">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/CaveofLakesatKastria"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/92"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/92">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Achaea"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/92">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/CaveofCyclopeonYoura"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/93">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/PlatiaMagulaZarkou"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/94">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/HakemiUse"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/95">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Makrychori2"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/96">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Proskinites"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/140"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/140">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/97">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Makri"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/138"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/138">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/98">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/TilHuzur-Yayvantepe"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/99">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Akrotiri"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/98"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/98">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Cyclades"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/100">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Tiryns"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/101">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Dendra"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/site/102">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/Argos"/>
+	<P7_took_place_at xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/province/94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/1">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Antalya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/2">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Burdur"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/3">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Isparta"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/4">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Afyon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/5">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Aydin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/6">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Denizli"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/7">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Izmir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/8">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kutahya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/9">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Manisa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/10">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Mugla"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/11">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Usak"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/12">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Balikesir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/13">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bilecik"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/14">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bursa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/15">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Canakkale"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/16">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Yalova"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/17">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kocaeli"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/18">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Sakarya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/19">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Istanbul"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/20">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kirklareli"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/21">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Tekirdag"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/22">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Edirne"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/23">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Adiyaman"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/26">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Gaziantep"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/27">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kilis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/28">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Mardin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/29">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Sanliurfa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/31">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Sirnak"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/32">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Agri"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/33">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Ardahan"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/34">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bingol"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/35">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bitlis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/36">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Elazig"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/37">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Erzincan"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/38">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Erzurum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/39">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Hakkari"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/40">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Igdir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/41">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kars"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/43">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Mus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/44">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Tunceli"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/45">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Van"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/46">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Artvin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/47">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Rize"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/48">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bayburt"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/49">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Trabzon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/50">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Gumushane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/51">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Aksaray"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/52">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Ankara"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/53">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Cankiri"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/54">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Eskisehir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/55">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Karaman"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/56">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kayseri"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/57">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kirikkale"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/58">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kirsehir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/59">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Konya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/60">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Nevsehir"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/61">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Nigde"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/62">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Sivas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/63">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Yozgat"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/64">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Hatay"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/65">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kahramanmaras"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/66">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Osmaniye"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/67">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Mersin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/68">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Adana"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/69">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Amasya"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/70">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bartin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/71">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Bolu"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/72">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Corum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/73">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Duzce"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/74">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Giresun"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/75">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Karabuk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/76">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Kastamonu"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/77">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Ordu"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/78">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Samsun"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/79">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Sinop"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/80">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Tokat"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/81">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Zonguldak"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/82">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Dodecanese"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/83">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Samos–Ikaria"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/84">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Chios"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/85">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Lesbos"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/90">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Trikala"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/91">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Messenia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/93">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Arcadia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/96">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Eleia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/97">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Laconia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/province/100">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+	<P1_is_identified_by xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#province/Boiotia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/GusirHöyük">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gusir Höyük</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/SumakiHöyük">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sumaki Höyük</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KastelliChanion">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kastelli Chanion</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/AgiosIoannis-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agios Ioannis-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Lera-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Lera-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Koumarospilio">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Koumarospilio</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KalathasAkrotiriou">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kalathas Akrotiriou</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nerokourou">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nerokourou</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Spiliotissa-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Spiliotissa-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/ArkaliesSkourachladas-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Arkalies Skourachladas-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Samonas">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Samonas</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Stylos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Stylos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Athens">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Athens</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Sesklo">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sesklo</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/HallanCemi">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Hallan Cemi</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Demirköy">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Demirköy</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Pyrgos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Pyrgos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Dimini">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Dimini</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Pevkakia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Pevkakia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Ancient-Volos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ancient-Volos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Petromagula">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Petromagula</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Pyrasos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Pyrasos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/PhthioticThebes">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Phthiotic Thebes</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Halos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Halos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/AgiosPetros">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agios Petros</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Platyvola-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Platyvola-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Kambia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kambia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Riza">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Riza</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/AgiaKyriaki">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agia Kyriaki</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/PalaiochoraNerovolaki">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Palaiochora Nerovolaki</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Chrisoskalatissa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Chrisoskalatissa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/SfinariKorakias">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sfinari Korakias</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Falasarna">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Falasarna</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Trachilos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Trachilos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Skyros">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Skyros</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Makrychori">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Makrychori</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Prodromos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Prodromos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Artesianon">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Artesianon</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Theopetra-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Theopetra-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Gavdos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gavdos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Gerani-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gerani-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Melidoni-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Melidoni-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/SouphliMagula">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Souphli Magula</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/OtzakiMagula">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Otzaki Magula</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Sendoni-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sendoni-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/AgiaSofia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agia Sofia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Argissa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Argissa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KörtikTepe">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Körtik Tepe</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KaragyösMagula">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Karagyös Magula</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Krannon/DoumaMagula">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Krannon/Douma Magula</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Krannon/Girlenia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Krannon/Girlenia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Achilleion">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Achilleion</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Pharsala">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Pharsala</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Rizoupoli">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Rizoupoli</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/NeaMakri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nea Makri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Marathon">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Marathon</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Gerontospilio">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gerontospilio</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Axos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Axos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/IdaeanCave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Idaean Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Atsipades">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Atsipades</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Rhamnous">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Rhamnous</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/AgiaMarina-Varkiza">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agia Marina - Varkiza</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Vouliagmeni/Kavouri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Vouliagmeni/Kavouri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KiaphaThiti">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kiapha Thiti</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Kitsos-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kitsos-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/KoxareKoule">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Koxare Koule</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Marmaras">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Marmaras</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nithavri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nithavri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Aigilia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Aigilia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Thorikos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Thorikos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Ägina">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ägina</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Methana">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Methana</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Korinth">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Korinth</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/NemeaValley">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nemea Valley</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/SalatCamiYani">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Salat Cami Yani</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Debla">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Debla</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Arkouda">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Arkouda</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Perivolia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Perivolia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Ellenes-Cave">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ellenes-Cave</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nemea">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nemea</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nafplio/Akronauplia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nafplio/Akronauplia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nafplio/Koutsouria">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nafplio/Koutsouria</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Nafplio/LophosKarapavlo">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nafplio/Lophos Karapavlo</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Aria">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Aria</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/CaferHöyük">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Cafer Höyük</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Asine">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Asine</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Lerna">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Lerna</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/ChonikaKokkinia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Chonika Kokkinia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/CaveofLakesatKastria">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Cave of Lakes at Kastria</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/CaveofCyclopeonYoura">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Cave of Cyclope on Youra</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/PlatiaMagulaZarkou">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Platia Magula Zarkou</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/HakemiUse">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Hakemi Use</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Makrychori2">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Makrychori 2</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Proskinites">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Proskinites</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Makri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Makri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/TilHuzur-Yayvantepe">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Til Huzur-Yayvantepe</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Akrotiri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Akrotiri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Tiryns">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Tiryns</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Dendra">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Dendra</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#site/Argos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Argos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Antalya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Antalya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Burdur">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Burdur</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Isparta">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Isparta</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Afyon">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Afyon</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Aydin">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Aydin</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Denizli">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Denizli</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Izmir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Izmir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kutahya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kutahya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Manisa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Manisa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Mugla">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Mugla</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Usak">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Usak</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Balikesir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Balikesir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bilecik">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bilecik</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bursa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bursa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Canakkale">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Canakkale</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Yalova">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Yalova</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kocaeli">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kocaeli</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Sakarya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sakarya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Istanbul">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Istanbul</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kirklareli">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kirklareli</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Tekirdag">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Tekirdag</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Edirne">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Edirne</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Adiyaman">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Adiyaman</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Batman">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Batman</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Diyarbakir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Diyarbakir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Gaziantep">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gaziantep</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kilis">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kilis</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Mardin">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Mardin</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Sanliurfa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sanliurfa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Siirt">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Siirt</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Sirnak">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sirnak</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Agri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Agri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Ardahan">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ardahan</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bingol">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bingol</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bitlis">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bitlis</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Elazig">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Elazig</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Erzincan">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Erzincan</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Erzurum">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Erzurum</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Hakkari">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Hakkari</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Igdir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Igdir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kars">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kars</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Malatya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Malatya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Mus">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Mus</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Tunceli">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Tunceli</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Van">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Van</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Artvin">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Artvin</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Rize">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Rize</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bayburt">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bayburt</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Trabzon">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Trabzon</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Gumushane">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Gumushane</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Aksaray">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Aksaray</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Ankara">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ankara</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Cankiri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Cankiri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Eskisehir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Eskisehir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Karaman">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Karaman</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kayseri">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kayseri</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kirikkale">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kirikkale</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kirsehir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kirsehir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Konya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Konya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Nevsehir">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nevsehir</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Nigde">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Nigde</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Sivas">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sivas</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Yozgat">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Yozgat</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Hatay">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Hatay</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kahramanmaras">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kahramanmaras</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Osmaniye">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Osmaniye</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Mersin">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Mersin</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Adana">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Adana</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Amasya">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Amasya</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bartin">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bartin</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Bolu">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Bolu</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Corum">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Corum</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Duzce">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Duzce</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Giresun">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Giresun</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Karabuk">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Karabuk</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Kastamonu">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Kastamonu</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Ordu">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Ordu</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Samsun">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Samsun</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Sinop">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Sinop</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Tokat">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Tokat</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Zonguldak">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Zonguldak</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Dodecanese">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Dodecanese</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Samos–Ikaria">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Samos –  Ikaria</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Chios">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Chios</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Lesbos">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Lesbos</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Karditsa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Karditsa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Larissa">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Larissa</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Magnesia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Magnesia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/NorthernSporades">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Northern Sporades</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Trikala">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Trikala</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Messenia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Messenia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Achaea">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Achaea</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Arcadia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Arcadia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Argolid">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Argolid</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Corinthia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Corinthia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Eleia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Eleia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Laconia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Laconia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Cyclades">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Cyclades</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Athens">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Athens</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#province/Boiotia">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Boiotia</P90_has_value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/2">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Additional graves: As the author doesn't describe the graves seperatly and doesn't divide the finds according to their location, the site is treated as one area instead of settlements and graves. Besides the burials in the three burials from the courtyard (simple, single individuals) and the group burial (3 individuals), remnants of badly disturbed burials have been encountered in the lower terrace, which was used by the locals as a pathway. Skeletal partes and finds possibly related to these disturbed burials have been recovered as scatter over a consierably large area. Some of the graves are heavly destroyed because of the slope and other factors.&#xD;
+Buildings: rectancular building with rounded courners: biggest of several buildings, cobbles filling on the floor, 7 adjestecent buildings - seems to be of special importance, possibly a central building. Highly burnt adobe remains in the buildings as well as in the layer filling show that adobe was extensively used above the stone foundations. Some adobe pieces have branch impressions on them (roof?).&#xD;
+Courtyard (?) to the west.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/3">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Rows of left-over large basalt ground stones (secondary usage of ones from the 2nd Phase) of different lengths, large oval hearths/ovens with hard plastered earthen floors on stone bases; plant- and plant + mineral tempered, plain or thinly red-washed pottery, a few painted decorations; rounded perforated or blank sherds; very few bone artifacts and clay figurines; an obsidian blade industry.A characteristic feature of the 1st Phase is the use of large basalt grinding stones-that had been discarded in earlier phases-in the construction of the walls; blocks of basalt ofvarious dimensions have been placed on the walls, usually in single courses in the squares 13G, 13f, 15H, 20G, 21L-M, 20N and 20/0. The large hearths and ovens of this phase are sometimes single and sometimes multiphased. The hard plastered earthen fioors of the multi-phased ones are always superimposed. They are sometimes horizontal, sometimes slightly inclined to the north. There are no basket surroundings araund them like the ones araund the ovens of the 2nd Phase. Their lowest base is always made of stone. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/4">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/5">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/6">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the northern part of the foremost room of the cave a Neolithic burial was found, but the bones were in a very bad condition.&#xD;
+In the stratum beneath it there was a second Neolithic burial in a sideways flexed position. An astragalos and a slate can be connected with it. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/7">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/8">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In 1972 strata were found that suggest a first usage of the cave in the Middle Neolithic. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/9">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The cave was sporadically used in the Late Neolithic. There are no signs of usage at a later date.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/10">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">1985, at a survey on the terrain of Tsilonera Kalatha, Late Neolithic pottery (and pottery and remains of a building from the Early Minoan) was found.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/11">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">A small building, having a stone foundation and probably walls made of a timber-frame construction, was found. On the open and paved square there is evidence for food preparation, activity of handicraft and domestic activity.  </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/12">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/13">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The cave was located at a systematic survey in 1978 but has yet to be excavated systematically.&#xD;
+The mentioned finds are not assigned to a specific period, therefore they could be neolithic as well as from the Early Minoan I and II period.  </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/14">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/15">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/14"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/16">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The grave construction has its earliest parallels in Early Bronze age, but it also corresponds to the neolithic wells at the northeast side of the Akropolis. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/17">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In 1922 the house in the southern side of the Akropolis was excavated. The remains of walls and floor were documented, but the layout of the house could not be reconstructed. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/18">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Two wells were found with material dating to late Neolithic to early Bronze Age at the south of Acropolis.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/19">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Rows of post holes from temporary dwellings; single-roomed thin walled dwellings; large ovens/hearths, fire pits and ashy areas; Dark faced Burnished and large basalt tempered wares; many figurines and sealings made of bitumen-tempered clay; basalt grinding stones; an obsidian blade and flake industry; a rich set of bone tools, especially awls, drills, and notched scapulae.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/20">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the northeast side of the trench by the Platon´s Academy under alluvial layers of clay and sand early heladic pottery was found. At 5,5 m depth a red layer with pebbles with polished pottey was found.   </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/21">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the area of Philothei (suburbs of Athens). </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/22">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">freestanding single-. double- or (mainly) multi-roomed, two-storied rectangular structures with rounded corners; a wattle-and-daub type of architecture; super-imposed well-made large oval hearths and ovens with basket surrounings; an obsidian blade and flake industry. The settlement was divided into at least 2 sectors; each sector is composed of variously-oriented free-standing dissimilar rectilinear buildings lying close together in single or double rows encircling unequally-sized open areas. In the southeast sector, three rows of buildings on the south and a double row on the north encirle a wide open space. The existens of a possible third row to the north is not yet clear. This area is thought to to have been a central area with large ovens for public activities. However there are no indicators as yet of a large special building. ln the western sector, low terraces spread out araund a smaller open space. Preliminary observations on the distribution of the artifacts hint at the presence of workshops and special activity areas in this sector. Although it is hard to estimate the size of the settlement, it is more than 1 ha. lt is a permanent settlement, and the buildings were probably abandoned before the flood/torrent.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/23">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Skeleton in crouched position without offerings. It is probably the first funeral found in Thessaly for the Early Neolithic I Period. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/16"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/24">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">rectangular structures made of "lime slabs" or mudbrick, and twigs-and-reeds.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/25">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The spatial layout of the Hallan Cemi Neolithic community consisted of a variety of structures and features arranged around a central open activity area approximately 15 m in diameter. The deposits in this open central area consisted of extremely dense concentrations of animal bone and fire-cracked rocks obtained from the nearby river bed. The animal bone in this area was often in the form of large, still-articulated parts of animal carcasses and inculdes a linear arrangement of three sheep crania. Scattered among the clearly recognizable stone structures ringing the open central area were a number of low, circular platforms and irregular expanses of a thick, white plaster. The platforms (average diameter ca. 2m, 10-40cm preserved hight) were made of a variety of materials including stone (partly covered with mud plaster), packed mud, and white plaster. They do not cover anything and the most plausible explanation of their function is that they were the foundations of storage silos whose superstructures were made of more perishable materials. Low, raised plaster features (other than platforms), typically rounded and between 50-70 cm in diameter, were encountered both inside and outside the stone structures in all three building Ievels. These were presumably hearths, as in many cases the plaster enclosed stillarticulated, fire-cracked stones that had apparently cracked while encased by the plaster. laster-like material were also scattered between the stone structures, as were several groups of postholes. Same of these plaster expanses are directly adjacent to stone structures and likely represent (presumably sheltered) exterior activity areas associated with those particular structures. However, others not so adjacent to stone structures may represent the only remaining traces of free-standing structures built of materials less durable than stone. All three of the stone structures that were excavated from the lowest excavated building Ievel 3 are relatively simple and probably domestic in nature. By the next building level 2, there is some architectural differentiation evident in the excavated structures. A total of five recognizable structures are known from this Ievel, but only four were completely excavated. All four of these fully excavated examples are again surface structures, with walls constructed in the same manner (i.e., pebbles/cobbles cemented with white-plaster) as the level 3 structures, three have floors paved with close-fitting sandstone slabs. One of these paved structures is particularly large, with a diameter of ca. 4 m, and has a small plastered basin at its center. By the upper-most building Ievel 1, however, there is clear evidence for the existence of structures that were not strictly domestic in nature and instead served some kind of public function. A total of four structures corresponding to this level were excavated. They all differ from those found in the earlier Ievels, in that they are constructed out of sandstone slabs and not cemented river stones. Two of these are relatively small surface structures, ca. 2,5 m in diameter and, like many of the structures from Ievels 2 and 3, 'C'-shaped in configuration. These are likely to have been domestic in function (Rosenberg 1994; Rosenberg et al. 1995). ln contrast, the other two structures are significantly larger, about 5-6 m in diameter, and similar in area to what are said to be public buildings at other Early Neolithic sites. Both these larger structures are fully circular and semi-subterranean in their construction. They also contain distinctive features in the form of a semi-circular stone bench/platform that is set against the wall of each structure </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/17"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/26">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">A total horizontal area of ca. 75m² was exposed by the soundings that probed the identifiably stratified Neolithic deposits. Other than fleeting traces of what may have been a very badly weathered, lightly burned low mud feature of indeterminated, vaguely semi-circular configuration (ca. 2m in maximum diameter) and a number of burials (see also Demirköy - cemetery/graves), the only recongnizable stratigraphic features encountered in the soundings were a series o fthin broken plaster surfaces that alternated with equally thin, softer, ashy midden deposits. This absence of identifiable structural features may be a product of the small horizontal exposure. However, it seems as likely to be a product of the fact that all that remains of the site is its far western skirt, and that those parts of the site on which structures may have once stood had been washed away by the Batman Stream in the past. The dates confirm that the occupation of Demirköy immediately follows the abandonment of Hallan Cemi and likely represents a relocation of the Hallan Cemi community down river.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/18"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/27">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The complete absence of burials at Hallan Cemi makes the presence of burials at Demirköy the most notable behavoiral innovation at this site, implying significant changes in mortuary ritual, symbolism, cosmology, etc. The burials involved both humans and animals - specifical canid, with a total of six human and two canid burials encountered and excavated. The human burials were of individuals ranging in age from infant throught adult and were somewhat variable in their treatment. In the five cases where it could be determined, bodies were laid on their right side, and all exhibited some degree of flexing. Four were laid out with their heads to the north or northeast; the fifth with the head to the south. The flexing ranged from a full fetal position, through intermediate degrees to just the flexing of the lower legs back up against the upper legs in an otherwise gernally extended position. The remaining example was a highly fragmentary, badly disturbed individual of whom little remained and abouth whoum very little can reliably be said. One individual was apparently burned in situ, in that all the remaining bones exhibited some degree of burning, but were present in more or less their proper anatomical position. Two other indivituals were either wrapped or placed on a reed mat for burial, judging from the phytolith impressions found under the bodies. A third individual, a child, was marked by closely spaced, parallel thin alternating bands of red and black pigment. For the moment, the most plausible explanation for this pattern of pigmentation is that the burial was bndled with bitumen-soaked cordage and then sprinkled with red ochre, with the ochre coming in contact with the body. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/18"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/28">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/19"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/29">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The children-graves were intramural.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/20"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/30">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/31">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/32">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/33">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/23"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/34">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/35">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/36">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/37">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/38">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/26"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/39">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/40">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The ovens and hearths were uncovered mainly in courtyards.&#xD;
+The two graves were found beside scattered skeletal remains over other burials. The children remains were in a lateral, contractive position.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/41">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/42">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/43">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/28"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/44">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/29"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/45">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/30"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/46">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The settlement is probably connected to the nearby peak sanctuary Gremnakas.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/31"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/47">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/32"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/48">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The small Final Neolithic settlement continued in Early Minoan I on a lower terrace.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/33"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/49">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The settlement had fortified walls.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/34"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/50">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Falasarna had fortified walls.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/35"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/51">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/36"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/52">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">At the end of Middle Neolithic IIIB the settlement was destroyed by fire. Only the Megaron at the "Akropolis" was rebuild.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/16"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/53">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/16"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/54">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Some building remains were found at the sites which could be dated by the pottery in the neolithic.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/37"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/55">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/38"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/56">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/39"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/57">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/40"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/58">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The oldest layers found in the cave are from the Middle Palaeolithic and are 40 000 years old. Among the finds from this period were flint-tools in Levallois technique, bone-tools, a tooth from a cave bear and carbonized seeds. A complete human skeleton was found in a palaeolithic layer which is 14 500 years old.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/41"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/59">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/60">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/61">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/62">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Early Neolithic pottery was found in a Final Neolithic stratum in the "Hall of the Heroes".</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/63">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">A total of 15 cremation burials, 2 pyres and 2 inhumation burials were found. The cremations consisted of pits in which small fragments of burnt bones, pieces of charcoal and broken vessels were found. In addition to that, in some graves also several small, roughly made miniature pots were found, which give the impression as if they had been made at the time of the funeral and burned on the fire for cremation. It is supposed that they had a symbolic meaning. Generally, only a small part of the skeleton was found, so the presumption imposes that the remains have been transferred from another place into the pits. Indeed, two bigger pits were encountered, where the dead were cremated. The pit walls showed large scorch marks and on the sides of the pits were three holes that probably originate from the wooden framework on which the dead was placed for burning. In the pits pieces of charcoal and a lot of fragments of burnt human bones were found but no vessels or other grave goods.&#xD;
+The two inhumations were from an adult and an infans II in contracting position.&#xD;
+The burials dating in Early Neolitic makes them to one of the earliest cremation burials found in Greece.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/45"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/64">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Late Neolithic pottery was found in a Final Neolithic stratum in the "Hall of the Heroes".</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/65">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/66">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/67">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The buildings are separated by narrow passages and open spaces. It is noteworthy that the construction of a new building took always place at the same location as a previous building. That leads to the assumption that there must have been some fixed property lines.&#xD;
+Some of the buildings had two antae in front of the entrace which could have been used as bases for posts for the roof construction.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/68">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/69">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Only the antechamber, the first and second room of the cave were examined in the excavation. Beneath strata of historical time a burnt layer, including Late Neolithic and Final Neolithic pottery, was found.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/47"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/70">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Only the antechamber, the first and second room of the cave were examined in the excavation. Beneath strata of historical time a burnt layer, including Late Neolithic and Final Neolithic pottery, was found. In the antechamber there was a stone setting, which is probably Final Neolithic because there was another final neolithic layer beneath it.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/47"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/71">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The building found on the Magula was a Megaron with two Antas built of mud-bricks. It was standing on a platform and a ramp was leading to the anteroom. Under the entrance-wall was a grave with a child and pot remains.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/48"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/72">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the Early Neolithic (according to Evans' terminology) tools made of bone were produced. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/73">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/49"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/74">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Inside the tumulus was a chamber which had three phases. In the filling some bone remains and two consecutive burials were found. The hill itself was covered with clay and had sunk on the small plateau a container filled with ash.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/48"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/75">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Although the cultural context of the Pre-Pottery Neolithic habitation layers of the mound is, in its basic traits, similar to those of the other approximately contemporary sites in the region, the presence of important differences in certain components of the artefactua l assemblage is also evident. All the data at hand point to the fact that Körtik Tepe was a permanent settlement.  Through the work on the mound-still ongoing-it became possible to distinguish the presence of at least six distinct architectural layers. ln all of them, all the dwellings display a round plan. he houses, which evidently had mud tloors, had walls constructed of a single row of unworked stones, some still standing up to a certain height; however, most of them had been disturbed due to the construction activities in the upper layers. What is interesting isthat in the walls of some of the buildings are large mortars and grinding stones. Apparently a decision was made to convert these mortars from food-producing artefacts to architectural members; Along with the presence of the grinding stones used in the walls, animal bones found in many of the houses have been providing information on the subsistence pattern of the inhabitants. &#xD;
+It is possible to consider the buildings at Körtik Tepe in three main groups. The first group comprises the buildings that display a clear circular plan-type (diam. 2,3-3m), now numbering 86; there are many others that have not been that well preserved. Simple foundation walls of rows of unworked stones and subterranean tloors of compacted mud are common to all. We have no definite evidence as to how the superstructures were built, but, seemingly, after the stone wall reached a certain height, possibly reeds reinforced with plaster were used. The second group comprises structures that are too small to be considered as dwellings. These structures, observed in all the levels in the excavated areas, are also roi.md-planned and the diameters vary from 1,1m to 2,1m. Apart from those which were much damaged by later intrusions, 29 definable examples of these structures have been recovered, all having pebble paved floors.  Similar small sized structures, not suitable for dwelling and possibly serving as storage units, have also been recovered at Hallan Cemi. The presence of plant remains recovered in abundance in these buildings also points to their function in this direction. The third group of buildings (diam. 3,42 - 3,8m), so far only three in number (Y3, Y11, Y44), differ from the others in their dimensions and floors. Their foundation walls have been preserved up to four courses of medium-sized stones regularly arranged using clay mortar. Findings associated with these buildings include two skeletons and the horns of a wild goat. Interpretation: special function buildings, bringing to mind the communal buildings found at Hallan Cemi.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/76">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The finds indicate that the magula was inhabited in all Neolithic periods. But there is a fluctuation during the Sesklo period and the Tsangli period visible. The buildings are supposed to be at another place.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/77">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">On the Douma Magula was a cemetery from the 5th century BC. During the excavation it turned out that the graves from the Classical period had been dug into the Late Neolithic settlement layers.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/52"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/78">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">The graves found at the site and dating from Protogeometric period to Hellenistic period had been dug into Late Neolithic and Early Bronze Age settlement layers.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/53"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/79">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">307 skeletons of the Pre-Pottery Neolithic period were buried in full-, 35 in semi-hocker position. Because of the destruction of the later periods, the positioning of 113 hurials could not be fully understood. ln two skeletons only the bones of the body were recovered, implying that these bodies were buried without their heads. However, as hurials without skulls are represented by only these two examples, it may be that the skulls of these two skeletons were destroyed over time. 301 hurials have gifts of different numbers and types, whereas 154 have no burial gifts. Some of the graves were under the floors of dwellings. The positions of a few graves are not clear as they were very near the topsoil and in a poor state of preservation. The practice of intramural burials shows that the dwelling places were in a way sanctified by the people of the period. This meaning attached to the dwelling house is also noted in the regularized burial traditions.  the employment of complex funerary rites and practices, both prior to and after the interment of the body, is evident. The custom of smearing of some parts of the dead with plaster/lime is one of such burial practices. it seems that two different methods were used in this process of smearing. ln the first method the bodies were smeared after they were interred in the grave, and the burial gifts were broken to be left next to the dead. ln most cases it is evident that the smearing was done soon after the death of the individual, as there are no plaster remains among the bones, and the bones are still in an articulated position. However, there are other hurials where the thick layer of smeared plaster has taken the shape of the bones, filling in the joints; accordingly, we surmise that the smearing was executed after the tlesh had decayed. Likewise, there are some other hurials with barids of ochre on the bones that had then been coated over with plaster. There are also a number of skeletons-including the skulls-that have been adorned with parallel bands of ochre before being coated with lime plaster. ln two instances bands of red and black ochre were applied to cover the neighbouring bones as well. ln fact, traces of ochre can be seen also on the burial gifts. Most of the burial gifts are of stone, presenting extensive information on the techniques of manufacturing, the level of craftsmanship, and a rich variety of decorative designs. There is a great variety in burial gifts, ranging from stone vessels, pestles, mortars, grinding stones, celts, cutting and piercing tools, and bone artefacts, to beads. ln sixteen hurials tortoise shells were found lying nearby or covering the head of the individuals in Körtik Tepe. Most of the identified individuals buried with tortoises are adults of different ages. both the number and the quality of craftsmanship of burial gifts increase or improve in time, which is no doubt the result of social and cultural development. This is also to be seen in the type, shape, decoration, and workmanship of the gifts. The burial gifts of the earlier Ievels are simpler and display a relatively coarser workmanship. Accordingly, it is possible to postulate that the setup of the social structure of Körtik Tepe began developing at the initial stages of sedentary life, and through a gradual process became much more sophisticated.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/80">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/54"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/81">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Near the hearths and fireplaces were often benches situated, besides or on which were found several objects like Idols and "cult vessels".</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/54"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/82">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Around the fire places pottery, tools, shells and animal bones were found.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/83">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">Three human skeletons were found. They probably weren't buried because they died when they were trapped inside the cave. An isotope analysis of two of the skeletons showed that they lived mostly on animal protein.&#xD;
+The cave was blocked before the Late Neolithic period (according to Evans) ended, so there is no evidence from the Final Neolithic inside the cave.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/84">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/55"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/85">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">During the petrological research of the Prophitis Elias Cave at Rizoupoli Late Neolithic pottery and spondylus shells were found.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/56"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/86">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/57"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/87">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/57"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/88">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/57"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/89">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/58"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/90">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/91">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/92">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/59"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/93">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/60"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/94">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the northern room neolithic strata were found.They contained a final neolithic jug. Further late or final neolithic usage remains, which were partly undisturbed, were found in the central room (in the northern and southern sector) and at the entrance to the northern room. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/95">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the northern room neolithic strata were found.They contained a final neolithic jug. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/96">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">In the northern room of the cave neolithic strata were discovered. They contained tools made of bone, flint and obsidian. Because of the prominent location of the cave Tomkins suggests it had a ritual meaning even in the Neolithic. </P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/97">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/98">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P90_has_value xmlns="http://www.cidoc-crm.org/cidoc-crm/" xml:lang="en">&#xD;
+Numerous architectural remains could be identified at the southern tip of the island but couldn't be assigned closer without an excavation.</P90_has_value>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/64"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/99">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/65"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/100">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/66"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.acdh/defc2cidoc#area/area/101">
+	<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E27_Site"/>
+	<P89_falls_within xmlns="http://www.cidoc-crm.org/cidoc-crm/" rdf:resource="http://vocab.acdh/defc2cidoc#site/site/66"/>
+</rdf:Description>
+
+</rdf:RDF>

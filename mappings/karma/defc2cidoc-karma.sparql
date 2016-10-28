@@ -6,11 +6,17 @@ PREFIX xml: <http://www.w3.org/XML/1998/namespace>
 PREFIX cidoc-crm: <http://www.cidoc-crm.org/cidoc-crm/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT ?site  ?sitename_uri ?sitename
+SELECT ?site  ?sitename ?area ?description ?provincename
 WHERE {
 	?site a cidoc-crm:E7_Activity;
                 cidoc-crm:P1_is_identified_by ?sitename_uri.
         ?sitename_uri cidoc-crm:P90_has_value ?sitename.
-	
+        ?site cidoc-crm:P7_took_place_at ?province.
+        ?province cidoc-crm:P1_is_identified_by ?provincename_uri.
+        ?provincename_uri cidoc-crm:P90_has_value ?provincename.
+        ?area a cidoc-crm:E27_Site;
+                cidoc-crm:P89_falls_within ?site.
+OPTIONAL {?area cidoc-crm:P90_has_value ?description.}
+              
 	
 }
